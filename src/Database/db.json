@@ -1,0 +1,146 @@
+{
+  "customer": [
+    {
+      "id": "cb71",
+      "fullname": "Sharmila",
+      "email": "sharmilla@gmail.com",
+      "package": "Darjeeling",
+      "arrivaldate": "2024-07-07",
+      "numberofperson": "2",
+      "avail": [
+        "Sight seeing",
+        "Fooding",
+        "Boarding"
+      ],
+      "coupon": "asas825",
+      "terms": "Agree"
+    },
+    {
+      "id": "94b5",
+      "fullname": "Urmila",
+      "email": "saas@gmail.com",
+      "package": "Darjeeling",
+      "arrivaldate": "2000-10-12",
+      "numberofperson": "4",
+      "avail": [
+        "Fooding",
+        "Boarding"
+      ],
+      "coupon": "asassasa",
+      "terms": "Disagree"
+    },
+    {
+      "id": "b6d5",
+      "fullname": "Mousom",
+      "email": "mousom@gmail.com",
+      "package": "Puri",
+      "arrivaldate": "2000-12-07",
+      "numberofperson": "4",
+      "avail": [
+        "Fooding"
+      ],
+      "coupon": "aasassa",
+      "terms": "Agree"
+    },
+    {
+      "id": "dca6",
+      "fullname": "Sudip Ray",
+      "email": "sudip@gmail.com",
+      "package": "Puri",
+      "arrivaldate": "2000-12-12",
+      "numberofperson": "4",
+      "avail": [
+        "Fooding",
+        "Boarding"
+      ],
+      "coupon": "asqqq",
+      "terms": "Agree"
+    },
+    {
+      "id": "94ea",
+      "fullname": "Tania",
+      "email": "tania@gmail.com",
+      "package": "Simla & Manali",
+      "arrivaldate": "2000-12-12",
+      "numberofperson": "6",
+      "avail": [
+        "Boarding",
+        "Fooding"
+      ],
+      "coupon": "asasassaas",
+      "terms": "Agree"
+    },
+    {
+      "id": "c97c",
+      "fullname": "Anindita",
+      "email": "ani@gmail.com",
+      "package": "Puri",
+      "arrivaldate": "2000-12-12",
+      "numberofperson": "8",
+      "avail": [
+        "Fooding",
+        "Sight seeing",
+        "Boarding"
+      ],
+      "coupon": "asasaas",
+      "terms": "Agree"
+    },
+    {
+      "fullname": "Ramu",
+      "email": "ramu@gmail.com",
+      "package": "Goa",
+      "arrivaldate": "2000-12-12",
+      "numberofperson": "12",
+      "avail": [
+        "Boarding",
+        "Fooding",
+        "Sight seeing"
+      ],
+      "coupon": "asassa",
+      "terms": "Agree",
+      "id": "f95b"
+    },
+    {
+      "fullname": "Amit",
+      "email": "amit@gmail.com",
+      "package": "Darjeeling",
+      "arrivaldate": "2024-01-20",
+      "numberofperson": "10",
+      "avail": [
+        "Fooding",
+        "Boarding"
+      ],
+      "coupon": "saqwqwwq2013",
+      "terms": "Agree",
+      "id": "fcc2"
+    },
+    {
+      "id": "7e32",
+      "fullname": "Neha ",
+      "email": "neha@gmail.com",
+      "package": "Digha",
+      "arrivaldate": "2024-12-12",
+      "numberofperson": "2",
+      "avail": [
+        "Fooding",
+        "Boarding",
+        "Sight seeing"
+      ],
+      "coupon": "wwqqwqw",
+      "terms": "Disagree"
+    },
+    {
+      "fullname": "Mohula",
+      "email": "asassa@gmail.com",
+      "package": "Digha",
+      "arrivaldate": "2015-12-12",
+      "numberofperson": "1",
+      "avail": [
+        "Sight seeing"
+      ],
+      "coupon": "asaasasas",
+      "terms": "Agree",
+      "id": "d7af"
+    }
+  ]
+}
